@@ -9,6 +9,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<p> mettere qua il messaggio salvato nel bean
+	<p> <s:property value="mexModel.mex" /> </p>
 </body>
 </html>
