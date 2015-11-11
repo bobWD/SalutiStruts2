@@ -9,6 +9,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<p> <s:property value="mexModel.mex" /> </p>
+	<h2> <s:property value="mexModel.mex" /> </h2>
 </body>
 </html>
